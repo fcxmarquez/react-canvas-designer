@@ -27,6 +27,7 @@ Stack: React 18 + TypeScript + Tailwind CSS + Radix UI Primitives.
 6. Skip all business logic, API calls, or authentication flows.
 7. Add JSDoc above the component explaining important props.
 8. Do not add comments outside of the code blocks.
+9. Uses `/playground` to design the current component or view. If there is previous code placed here, clean up to start from scratch
 
 ### Output format
 1. Full component code inside a tsx block.
