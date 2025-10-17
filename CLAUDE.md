@@ -68,3 +68,6 @@ pnpm format:check     # Check code formatting
 1. **Views development**: Develop the first prototype directly into the `App.tsx` file. After that, you have the freedom to develop the rest of the views and components as you see fit.
 2. **Components development**: If needed, develop components in the `src/components` directory.
 3. **Build testing**: Ensure TypeScript compilation passes (`pnpm build`)
+
+## Development Guidelines
+- You are free to use and install any library if is needed for the current task.
