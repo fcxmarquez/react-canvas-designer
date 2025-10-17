@@ -1,9 +1,9 @@
 # React Designer Canvas
 
-This project is a React-vite template project that leverages the power of AI to design components in a canva-like using storybook and Cursor rules. The project guide the AI agent to focus on the visual layer and don't worry about logic code, api calls, state integration, etc leaning on good design practices.
+This project is a React-vite template project set up a safe environment to be used by a code agent to try and test quickly prototypes, ideas and concepts.
 
 ## Setup
 
 ```bash
-npm install
+pnpm install
 ```
